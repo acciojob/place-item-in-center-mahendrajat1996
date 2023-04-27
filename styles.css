@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.item-1{
+ 	display:flex;
+	justify-content:center;
+	
+}
+.clss{
+	color:red;
+	background-color:yellow;
+}
